@@ -1,0 +1,23 @@
+name,date,height,weight,Source
+Brock Bricks,4/10/19,185,95,CSVtest2.csv
+Jack Brack,6/7/19,172,91,CSVtest2.csv
+Jack Smith,4/1/19,185,91,CSVtestA.csv
+Jack Black,4/2/19,183,91,CSVtestA.csv
+Natasha Ansari,3/4/20,165,60,CSVtestA.csv
+Jack Smith,4/1/19,185,91,CSVtest.csv
+Jack Black,4/2/19,183,91,CSVtest.csv
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2.xlsx
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest.xlsx
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtestA.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtestA.xlsx
+Natasha Ansari,2020-03-04 00:00:00,165,60,EXCELtestA.xlsx
+Jane Smith,09/02/2019,170,75,JSONtest.json
+Jane Jackson,09/03/2019,172,74,JSONtest2.json
+Becky Jackson,04/03/2019,165,70,JSONtest3.json
+Natasha Ansari,09/02/2020,155,60,JSONtestA.json
+Natasha Ansari,10/08/2020,160,60,XMLtestA.xml
+John Smithe,03/08/2019,185,101,XMLtest2.xml
+Brett Smithe,05/08/2019,179,99,XMLtest3.xml
+John Smith,02/08/2019,180,100,XMLtest.xml
